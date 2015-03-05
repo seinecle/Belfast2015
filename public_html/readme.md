@@ -33,7 +33,8 @@ So the moral of this story is: don’t bother too much, personally I don’t, di
 # 2nd short story: what is a good data visualization?
 This one is obviously a personal story because there will be elements of a subjective judgment, and there is much room for disagreement… but here is what I think is a good data visualization.
 There is a basic, minimum condition to qualify: you have to stay loyal to the data. I think it translates in three conditions:  
-###**1) Fair and correct use of the visual grammar. This data visualization illustrates my point:**  
+###**1) Fair and correct use of the visual grammar.
+This data visualization illustrates my point:**  
 
 
 <p align="center"><img src="img/formatted/truncating.jpg"/></p>  
@@ -157,7 +158,7 @@ So the moral of this story:
 - In 2009, I had the choice between writing a narrative based on a series of interviews from leading voices in neuroeconomics, or creating an all-encompassing view of the field where hundreds of participants (more than 600 actually), famous and anonymous, would be represented. I guess I tried the later because I thought, wow, I could grasp the entire field of neuroeconomics, worldwide, let’s see how it looks! This is what caused the shift of working with documents and narratives to a data-driven research output.  
 - I did not do visualizations because I was into “data visualization”, but because I felt network data has a visual character to start with. To put it differently, since my research question was all about relationships between individuals, a visual network seemed the most exciting, insightful way to investigate it.  
  
-#4th story : digital humanities + data visualization frame the humanities as dealing with « data »: is this frame wrong?
+#4th story : digital humanities and data visualization frame the humanities as dealing with "data": is this frame wrong?  
 The assumption of data visualization is, what we are doing is working on a material, that we call « data ». There is a dataset, or a corpus, or a file, or a list of records, and this is « data ». Not an argument, not a discourse, not a melody, not an incantation, not an ideology, but data. A library becomes a list of books, books become lists of pages, a page becomes a list of tokens…  
 
 Thinking in terms of data tends to impose a quantitative view of the world…  and I think it is ok not to feel at ease with that. Because it stampedes on narrative forms of scholarschip. Let me illustrate.    
