@@ -2,19 +2,19 @@
 ###by [Clement Levallois](http://www.clementlevallois.net)
 ###presented at the "Data Visualization for the Arts and the Humanities" event ([link](https://www.eventbrite.ie/e/data-visualization-for-the-arts-and-humanities-tickets-14880944305)), Queen's University Belfast, 05-06 March 2015
 
-I thank the [Digital Arts and Humanities Program](http://dahphd.ie/), the [Institute for Collaborative Research in the Humanities](http://www.qub.ac.uk/research-centres/InstituteforCollaborativeResearchintheHumanities/) and Queen’s University Belfast for this invitation to speak on the topic of data visualization and the digital humanities, which I am passionate about. Preparing this talk, I realized I had many points to get across. For commodity I organized them in 5 different stories, “dataviz, hype or hope” being one of them. To share all my ideas and stay on time, I will follow a written text, which looks a bit static but I promise to add pictures like this one to keep you engaged and illustrate my arguments.
+I thank the [Digital Arts and Humanities Program](http://dahphd.ie/), the [Institute for Collaborative Research in the Humanities](http://www.qub.ac.uk/research-centres/InstituteforCollaborativeResearchintheHumanities/) and Queen’s University Belfast for this invitation to speak on the topic of data visualization and the digital humanities, which I am passionate about. Preparing this talk, I realized I had many points to get across. For commodity I organized them in 5 different stories, “dataviz, hype or hope” being one of them. To share all my ideas and stay on time, I will follow a written text, which looks a bit static but I promise to add pictures like [this one](http://sharpwriter.deviantart.com/art/Welcome-to-the-Internet-Please-Follow-me-322248378) to keep you engaged and illustrate my arguments.
 
 
-<p align="center"><img src="img/formatted/unicorn.jpg"/></p>
+<p align="center"><img src="img/formatted/unicorn.jpg"/></p>  
 
 
 #1st story : is digital humanities + data visualization hype or hope?
 This story will be a quick one. Digital humanities, data visualization: hype or hope? You can hear this one often, and this can really generate anxieties if you do digital humanities: am I just doing something superficial, is it just a fade? Well, in my opinion the “hype or hope” debate is a moot question. New cultural concepts and technologies, when they get born, seem to all undergo a cycle of hype and hope. You have this for MOOCs, big data, neuroeconomics...
 
-This hype cycle thing is analytical framework promoted by Gartner, which is a company specializing in market analytics:  
+This hype cycle thing is [analytical framework promoted by Gartner](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp#), which is a company specializing in market analytics:  
 
 
-![pic1](img/formatted/hypecycle.jpg)  
+<p align="center"><img src="img/formatted/hypecycle.jpg"/></p>  
 
 
 For big data, it gives something like this:  
@@ -36,14 +36,15 @@ There is a basic, minimum condition to qualify: you have to stay loyal to the da
 ###**1) Fair and correct use of the visual grammar. This data visualization illustrates my point:**  
 
 
-![pic](img/formatted/truncating.jpg)  
+<p align="center"><img src="img/formatted/truncating.jpg"/></p>  
 
 
 ###**2) Intelligible.**  
 Here I take the example of network visualizations. How many times do you see this kind of pictures
 
 
-![pic](img/formatted/gephi.jpg)         ![pic](img/formatted/nodexl.jpg)  
+<p align="center"><img src="img/formatted/gephi.jpg"/></p>  
+<p align="center"><img src="img/formatted/nodexl.jpg"/></p>  
 
 
 I suppose you with me that, no matter if the scales are correct, or if the underlying data is fairly represented, the bad design of the data visualization makes it impossible to engage with.  
@@ -51,7 +52,7 @@ I suppose you with me that, no matter if the scales are correct, or if the under
 ###**3) No misleading rhetorical effects.**  
 
 
-![pic](img/formatted/fmri.jpg)  
+<p align="center"><img src="img/formatted/fmri.jpg"/></p>  
 
 
 I take this example for neuromarketing, which is a frequent producer of a particular kind of data visualization. I observed neuromarketing in a research project in sociology of science while in Rotterdam, from 2008 to 2014. In this example you see pictures of brains representing the result of a study using fMRI, which is a type of brain scanner. 18 subjects were shown logos of brands, and the colors are supposed to represent the regions of the brain that get active when you show real brand logos, versus meaningless logos.  
@@ -59,8 +60,7 @@ I take this example for neuromarketing, which is a frequent producer of a partic
 This data visualization does not tell you anything about the effect of brand logos on you. But looking at the picture, it really seems that there is something to be learnt there. Wow, this is my brain when I watch logos.  
 
 
-![pic](img/formatted/seeingisbelieving.jpg)  
-
+<p align="center"><img src="img/formatted/seeingisbelieving.jpg"/></p>  
 
 
 One study found in 2008 that [“Seeing is believing”](http://www.sciencedirect.com/science/article/pii/S0010027707002053): scientific arguments, when they are illustrated with an fMRI picture, even an irrelevant one, tended to be more persuasive than the scientific argument alone.  
@@ -68,7 +68,7 @@ One study found in 2008 that [“Seeing is believing”](http://www.sciencedirec
 Actually, that would be a nice cautionary tale, except that [another study from 2012](http://pus.sagepub.com/content/21/8/938.abstract) did not confirm this:
 
 
-![pic](img/formatted/seeingisnotbelieving.jpg)  
+<p align="center"><img src="img/formatted/seeingisnotbelieving.jpg"/></p>  
 
 
 They suggest, I quote from the abstract, that “that images alone may not have a strong effect upon evaluation [of a text], that no image is necessarily more persuasive than another as implied by earlier studies and that further research is needed to determine what, if any, role images play in conjunction with the text to create a persuasive effect.”  
@@ -83,16 +83,16 @@ So you have these hot debates about what is a “good dataviz”, or what should
 
 The dataviz has to play with the codes of its environment. Is it a dataviz for digital humanities? Or data journalism, in print or online? Is the dataviz created as a commentary on the past elections, or is it an element of advocacy for the coming elections? In each case, you will expect the dataviz to fit with the codes of the community where it will be viewed. In data journalism, dataviz might serve to help the reader understand complex factuals, with editorial guidance. The NYT and the Guardian are specialists of this ([one example here, needs to be logged in to the NYT](http://www.nytimes.com/interactive/2014/07/03/world/middleeast/syria-iraq-isis-rogue-state-along-two-rivers.html)).  
 
-In the digital humanities, when we create dataviz, I think that we are quite lucky that we can both play on the traditional academic codes of objectivity, and engage more freely with the cultural matter that we study. I mean, I think we are more free to develop an aesthetics, and explore free forms than, say, a biologist or even a journalist would feel ok to publish. For example, Lev Manovich and Moritz Stefaner could project the result of their study of selfies on the outside of a building!  
+In the digital humanities, when we create dataviz, I think that we are quite lucky that we can both play on the traditional academic codes of objectivity, and engage more freely with the cultural matter that we study. I mean, I think we are more free to develop an aesthetics, and explore free forms than, say, a biologist or even a journalist would feel ok to publish. For example, Lev Manovich and Moritz Stefaner could project the result of their [study of selfies](http://selfiecity.net/) on the outside of a building!  
 
 
-![pic](img/formatted/selfiecityproject.jpg)  
+<p align="center"><img src="img/formatted/selfiecityproject.jpg"/></p>  
 
 
-So… how to recognize a good dataviz, across domains? In digital humanities, data journalism, and beyond? In my view, there is a simple test: is it engaging? Does it get the viewer interested, absorbed? Is the dataviz memorable, are you attracted to it. Does it stick with you. To me, this data visualization is engaging:  
+So… how to recognize a good dataviz, across domains? In digital humanities, data journalism, and beyond? In my view, there is a simple test: is it engaging? Does it get the viewer interested, absorbed? Is the dataviz memorable, are you attracted to it. Does it stick with you. To me, this data visualization, a [windmap by Hint.fm](http://hint.fm/wind/), is engaging:  
 
 
-[![pic](img/formatted/windmap.jpg)](http://hint.fm/wind/)  
+<p align="center"><img src="img/formatted/windmap.jpg"/></p>  
 
 
 We want to spend time on it, we find it beautiful, the eye is drawn to different regions of the screen, and the viz suggests different questions that we did not anticipate.  
@@ -100,23 +100,26 @@ We want to spend time on it, we find it beautiful, the eye is drawn to different
 Pondering on why I was drawn to some visualizations again and again, I found that they were strong on these following “dimensions”: they used real time or recent data, they showed movement, their material was emotional, they used sound, there was a talent for telling stories, or, my personal favorite, they put esthetics on front stage (interestingly, “interaction” and “humor” are not on this list…).  
 
 Esthetics and sound are so strong that they are in both present in the 2 pieces I’d like to share with you to conclude this story. These visualizations are connected to data in an unusual sense, it is more of generative art. Yet, they set my benchmarks when I think of my next ideal projects in dataviz: 
-The first one is Starry Night by Petro Vrellis from 2012 (4 minutes):  
+The first one is [Starry Night](https://vimeo.com/36466564) by Petro Vrellis from 2012 (4 minutes):  
 
 
-[![pic](img/formatted/starrynights.jpg)](https://vimeo.com/36466564)  
+<p align="center"><img src="img/formatted/starrynights.jpg"/></p>  
 
 
-The second one is “unnamed sound sculpture” by Daniel Franke & Cedric Kiefer with dancer Laura Keil, from 2013 (3 minutes):  
+The second one is [“unnamed sound sculpture”](https://vimeo.com/38850289) by Daniel Franke & Cedric Kiefer with dancer Laura Keil, from 2013 (3 minutes):  
 
 
-[![pic](img/formatted/unnamed.jpg)](https://vimeo.com/38850289)  
+<p align="center"><img src="img/formatted/unnamed.jpg"/></p>  
 
  
 #Next story : how I came to data visualization and the digital humanities
 I had finished a Phd in history of science, studying the relationships between economics and biology in post War United States.
 This thesis was a contextualized history, drawing on biographies of the scientists involved and based on the cultural history of twentieth century United States. So it was very much archive based:  
 
-![pic](img/formatted/archive1.jpg)        ![pic](img/formatted/archive2.jpg)  
+
+<p align="center"><img src="img/formatted/archive1.jpg"/></p>  
+<p align="center"><img src="img/formatted/archive2.jpg"/></p>  
+
 
 
 I visited libraries holding the personal archives of economist and peace activist Kenneth Boulding in Michigan, economist Nicholas Goergescu Roegen at Duke University, and mathematician Alfred Lotka in Princeton. Through the Freedom of Information Act, I got access to the FBI file on economist Edith Penrose. I called got rich archives from founding figures of ecology sent by the University of Akron.  
@@ -124,18 +127,18 @@ The thesis ended up being 6 chapters, 6 stories on 6 episodes of the relationshi
 
 > « a set of values of qualitative or quantitative variables; restated, pieces of data are individual pieces of information. Data is measured, collected and reported, and analyzed, whereupon it can be visualized using graphs or images ».  
 
-Well, actually there was just one piece of “data” in the thesis, and it was visualized:  
+Well, actually there was just one piece of “data” in [the thesis](https://tel.archives-ouvertes.fr/tel-00372263/), and it was visualized:  
 
 
-![pic](img/formatted/bibliometrics.jpg)  
+<p align="center"><img src="img/formatted/bibliometrics.jpg"/></p>  
 
 
 This was showing the number of times a term from evolutionary biology was used in economics journals throughout the twentieth century, based on counts in JStor. This was a very handy overview and confirming evidence of my main thesis:  relationships between economics and biology had decreased in intensity during the century, and had regained strength since the 1960s onwards.  
 Then I moved to a postdoc position at the Rotterdam School of Management and the Virtual Knowledge Studio, where my role was to study one of the latest episodes of the relationships between economics and biology: this field I was going to observe was called “neuroeconomics”, and it studies how does decision making happens, at the level of the synapses, using neuroelectrophysiology, brain scanner studies and mathematical modeling.
 
 
-![pic](img/formatted/monkey.jpg)             ![pic](img/formatted/fmri2.jpg)  
-
+<p align="center"><img src="img/formatted/monkey.jpg"/></p>  
+<p align="center"><img src="img/formatted/fmri2.jpg"/></p>  
 
 
 A companion field is neuromarketing, which studies how consumers process purchasing actions and advertisements – both fields had appeared ion late 90s, early 2000’s.  
@@ -145,7 +148,7 @@ The point was to use the answers to re-create a social network of neuroeconomist
 I don’t know for you, but in my case, a network evokes a visual thing, like this:  
 
 
-![pic](img/formatted/network.jpg)  
+<p align="center"><img src="img/formatted/network.jpg"/></p>  
 
 
 Maybe because I had no formal training in graph theory, which is the formal mathematical theory of networks, so I did not try to measure “clustering coefficients” or the “diameter” of the network. I just wanted to see it, I was confident I would learn things from looking at it attentively. So I must have googled “software to visualize networks” and first I found GUESS, then I found Gephi, which was just starting at the time, and that is how I started data visualization.  
@@ -161,7 +164,7 @@ Thinking in terms of data tends to impose a quantitative view of the world…  a
 Recently, I was working on a paper on the history of neuromarketing:
 
 
-![pic](img/formatted/neuromarketing.jpg)  
+<p align="center"><img src="img/formatted/neuromarketing.jpg"/></p>  
 
 
 With my co-authors Ale Smidts and Paul Wouters, we were interested in exploring the roots of neuromarketing in the academic community and in the business community, seeing if and how interactions between these communities had produced this new field.  
@@ -172,14 +175,14 @@ So, we hired a research assistant, Nicoline Beun, to collect all offline and onl
 The goal was also to understand the birth and evolution of a cultural trope through its representation in all forms of media, not just print media but also blogs, Youtube videos and the rest:  
 
 
-![pic](img/formatted/youtubeneuromarketing.jpg)  
+<p align="center"><img src="img/formatted/youtubeneuromarketing.jpg"/></p>  
 
 
 As surprising as it seems, this had never been done before. Nicole collected thousands of items from the first year « neuromarketing » appeared (in 2002) up to 2009.  
 We ended up with something like 12 hundred documents in English, mostly web pages, and thousands of documents in other languages. This amount of documents suggested that « distant reading » was required, algorithms should be used, word frequencies should be measured, and data visualization was possible: counting terms, drawing charts showing how topics in neuromarketing were trending over the years… we did that, but that ended up being a very dry result.  
 
 
-![pic](img/formatted/chartneuromarketing.jpg)  
+<p align="center"><img src="img/formatted/chartneuromarketing.jpg"/></p>  
 
 
 So … we reverted to a narrative form of argument: reading the documents, choosing which one to put forward in the paper, writing the story of the birth of neuromarketing, from early controversies to the stabilization of the field. I think this worked great, and as it is in submission, let’s hope the reviewers agree.  
@@ -222,7 +225,7 @@ Just a note on quality and impact: it is not because you have a higher impact th
 Ok, compare this to another research output. I created a plugin for Gephi called [“Map of countries”](https://marketplace.gephi.org/plugin/maps-of-countries/). This plugin puts a map in the background, if you have a geospatialized network, like this:  
 
 
-![pic](img/formatted/mapofcountries.jpg)  
+<p align="center"><img src="img/formatted/mapofcountries.jpg"/></p>  
 
 
 I created it to do the visualizations for a paper co-authored with Hubert Buch Hansen on the history of cartels in Europe. The plugin was released publicly in 2013. It got 2600 downloads in less than 2 years, and I am so happy with it. I get people asking stuff on it, and it even becomes controversial because the map of China does not include Taiwan on it. I get nice messages by email or Twitter from users who thank me for releasing this plugin and others, which helped them out in their work or research. I mean, wow.  
