@@ -5,7 +5,7 @@
 I thank the [Digital Arts and Humanities Program](http://dahphd.ie/), the [Institute for Collaborative Research in the Humanities](http://www.qub.ac.uk/research-centres/InstituteforCollaborativeResearchintheHumanities/) and Queen’s University Belfast for this invitation to speak on the topic of data visualization and the digital humanities, which I am passionate about. Preparing this talk, I realized I had many points to get across. For commodity I organized them in 5 different stories, “dataviz, hype or hope” being one of them. To share all my ideas and stay on time, I will follow a written text, which looks a bit static but I promise to add pictures like this one to keep you engaged and illustrate my arguments.
 
 
--> ![pic1](img/formatted/unicorn.jpg)  <-
+<center>![pic1](img/formatted/unicorn.jpg)  </center>
 
 
 #1st story : is digital humanities + data visualization hype or hope?
