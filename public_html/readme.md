@@ -8,7 +8,7 @@ I thank the [Digital Arts and Humanities Program](http://dahphd.ie/), the [Insti
 <p align="center"><img src="img/formatted/unicorn.jpg"/></p>  
 
 
-#1st story : is digital humanities + data visualization hype or hope?
+#1st story: is digital humanities + data visualization hype or hope?
 This story will be a quick one. Digital humanities, data visualization: hype or hope? You can hear this one often, and this can really generate anxieties if you do digital humanities: am I just doing something superficial, is it just a fade? Well, in my opinion the “hype or hope” debate is a moot question. New cultural concepts and technologies, when they get born, seem to all undergo a cycle of hype and hope. You have this for MOOCs, big data, neuroeconomics...
 
 This hype cycle thing is [analytical framework promoted by Gartner](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp#), which is a company specializing in market analytics:  
@@ -113,7 +113,7 @@ The second one is [“unnamed sound sculpture”](https://vimeo.com/38850289) by
 <p align="center"><img src="img/formatted/unnamed.jpg"/></p>  
 
  
-#Next story : how I came to data visualization and the digital humanities
+# Next story: how I came to data visualization and the digital humanities
 I had finished a Phd in history of science, studying the relationships between economics and biology in post War United States.
 This thesis was a contextualized history, drawing on biographies of the scientists involved and based on the cultural history of twentieth century United States. So it was very much archive based:  
 
@@ -158,7 +158,7 @@ So the moral of this story:
 - In 2009, I had the choice between writing a narrative based on a series of interviews from leading voices in neuroeconomics, or creating an all-encompassing view of the field where hundreds of participants (more than 600 actually), famous and anonymous, would be represented. I guess I tried the later because I thought, wow, I could grasp the entire field of neuroeconomics, worldwide, let’s see how it looks! This is what caused the shift of working with documents and narratives to a data-driven research output.  
 - I did not do visualizations because I was into “data visualization”, but because I felt network data has a visual character to start with. To put it differently, since my research question was all about relationships between individuals, a visual network seemed the most exciting, insightful way to investigate it.  
  
-#4th story : digital humanities and data visualization frame the humanities as dealing with "data": is this frame wrong?  
+# 4th story: digital humanities and data visualization frame the humanities as dealing with "data": is this frame wrong?  
 The assumption of data visualization is, what we are doing is working on a material, that we call « data ». There is a dataset, or a corpus, or a file, or a list of records, and this is « data ». Not an argument, not a discourse, not a melody, not an incantation, not an ideology, but data. A library becomes a list of books, books become lists of pages, a page becomes a list of tokens…  
 
 Thinking in terms of data tends to impose a quantitative view of the world…  and I think it is ok not to feel at ease with that. Because it stampedes on narrative forms of scholarschip. Let me illustrate.    
@@ -193,7 +193,7 @@ Oh, and we ditched the data visualizations we had, but created a visual timeline
 So this is the point of this story: thinking in terms of « data » and « data visualization » is a very special way of thinking which can displace equally interesting or more interesting forms of scholarship, like close reading, or historical narratives where an authorial voice is very much present… Yes the history we have written counts as “digital humanities”, since we used an empirical material that was “born digital”, but our work was not data driven in a quantitative sense. And in this case, I like it this way.  
 
  
-#Last short story: The unintended consequences of the digital humanities
+# Last short story: The unintended consequences of the digital humanities
 When you read about the digital humanities and data visualization, we can feel a lot of anxiety:
 - What are the digital humanities, really?  
 - Is digital humanities hype or hope?  
