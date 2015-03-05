@@ -1,4 +1,4 @@
-#Dataviz and DH : hype or hope ? and four other personal stories
+#Dataviz and DH : hype or hope ? *and four other personal stories*
 ###by [Clement Levallois](http://www.clementlevallois.net)
 ###presented at the "Data Visualization for the Arts and the Humanities" event ([link](https://www.eventbrite.ie/e/data-visualization-for-the-arts-and-humanities-tickets-14880944305)), Queen's University Belfast, 05-06 March 2015
 
