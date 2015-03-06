@@ -11,7 +11,7 @@ I thank the [Digital Arts and Humanities Program](http://dahphd.ie/), the [Insti
 #1st story: is digital humanities + data visualization hype or hope?
 This story will be a quick one. Digital humanities, data visualization: hype or hope? You can hear this one often, and this can really generate anxieties if you do digital humanities: am I just doing something superficial, is it just a fade? Well, in my opinion the “hype or hope” debate is a moot question. New cultural concepts and technologies, when they get born, seem to all undergo a cycle of hype and hope. You have this for MOOCs, big data, neuroeconomics...
 
-This hype cycle thing is [analytical framework promoted by Gartner](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp#), which is a company specializing in market analytics:  
+This hype cycle thing is an [analytical framework promoted by Gartner](http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp#), which is a company specializing in market analytics:  
 
 
 <p align="center"><img src="img/formatted/hypecycle.jpg"/></p>  
@@ -26,15 +26,15 @@ For big data, it gives something like this:
 - The trough of disillusionment. Well, big data is hard, costly, and does not cure everything. Some scandals might appear, people with this skill in their CVs don’t find a job as easily as they thought…
 - Slope of rationalization: heads get cooler, things calm down, expectations become more rational… That may be for the next 10 years for big data.
 
-This is the same for the digital humanities and data visualization. We are probably in the middle of inflated expectations, fuelled by funding agencies, editors at journals… we might have the digital humanities will revolutionize / displace / transform existing scholarships. Hopefully, we will not be too disappointed and quickly reach the “plateau of productivity” …
+This is the same for the digital humanities and data visualization. We are probably in the middle of inflated expectations, fuelled by funding agencies, editors at journals… it might be the case that the digital humanities will revolutionize / displace / transform existing scholarships, but more probably this is just the play of inflated expectations. Hopefully, we will not be too disappointed and quickly reach the “plateau of productivity” …
 
 So the moral of this story is: don’t bother too much, personally I don’t, digital humanities and dataviz are neither hype nor hope per se, they are emerging trends that will find their place in the cultural sphere just like anything else.
  
 # 2nd short story: what is a good data visualization?
 This one is obviously a personal story because there will be elements of a subjective judgment, and there is much room for disagreement… but here is what I think is a good data visualization.
 There is a basic, minimum condition to qualify: you have to stay loyal to the data. I think it translates in three conditions:  
-###**1) Fair and correct use of the visual grammar.
-This data visualization illustrates my point:**  
+###**1) Fair and correct use of the visual grammar.**
+This data visualization illustrates my point:   
 
 
 <p align="center"><img src="img/formatted/truncating.jpg"/></p>  
@@ -48,7 +48,7 @@ Here I take the example of network visualizations. How many times do you see thi
 <p align="center"><img src="img/formatted/nodexl.jpg"/></p>  
 
 
-I suppose you with me that, no matter if the scales are correct, or if the underlying data is fairly represented, the bad design of the data visualization makes it impossible to engage with.  
+I suppose you agree with me that, no matter if the scales are correct, or if the underlying data is fairly represented, the bad design of the data visualization makes it impossible to engage with.  
 
 ###**3) No misleading rhetorical effects.**  
 
@@ -72,7 +72,7 @@ Actually, that would be a nice cautionary tale, except that [another study from 
 <p align="center"><img src="img/formatted/seeingisnotbelieving.jpg"/></p>  
 
 
-They suggest, I quote from the abstract, that “that images alone may not have a strong effect upon evaluation [of a text], that no image is necessarily more persuasive than another as implied by earlier studies and that further research is needed to determine what, if any, role images play in conjunction with the text to create a persuasive effect.”  
+They suggest, I quote from the abstract, that “images alone may not have a strong effect upon evaluation [of a text], that no image is necessarily more persuasive than another as implied by earlier studies and that further research is needed to determine what, if any, role images play in conjunction with the text to create a persuasive effect.”  
 
 I mentioned fMRI pictures here, but the same caution is necessary with any kind of picture, and I have in mind here pictures of networks. 
 If these conditions are not met, what you have in front of you might be a cartoon, or an infographics, but not a bona fide data visualization.
@@ -124,7 +124,7 @@ This thesis was a contextualized history, drawing on biographies of the scientis
 
 
 I visited libraries holding the personal archives of economist and peace activist Kenneth Boulding in Michigan, economist Nicholas Goergescu Roegen at Duke University, and mathematician Alfred Lotka in Princeton. Through the Freedom of Information Act, I got access to the FBI file on economist Edith Penrose. I called got rich archives from founding figures of ecology sent by the University of Akron.  
-The thesis ended up being 6 chapters, 6 stories on 6 episodes of the relationship between economics and biology. It was not based on data, if we call data, [[following Wikipedia](http://en.wikipedia.org/wiki/Data):  
+The thesis ended up being 6 chapters, 6 stories on 6 episodes of the relationship between economics and biology. It was not based on data, if we call data, following Wikipedia](http://en.wikipedia.org/wiki/Data):  
 
 > « a set of values of qualitative or quantitative variables; restated, pieces of data are individual pieces of information. Data is measured, collected and reported, and analyzed, whereupon it can be visualized using graphs or images ».  
 
