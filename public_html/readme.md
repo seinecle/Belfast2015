@@ -2,7 +2,9 @@
 ###by [Clement Levallois](http://www.clementlevallois.net)
 ###presented at the "Data Visualization for the Arts and the Humanities" event ([link](https://www.eventbrite.ie/e/data-visualization-for-the-arts-and-humanities-tickets-14880944305)), Queen's University Belfast, 05-06 March 2015
 
-I thank the [Digital Arts and Humanities Program](http://dahphd.ie/), the [Institute for Collaborative Research in the Humanities](http://www.qub.ac.uk/research-centres/InstituteforCollaborativeResearchintheHumanities/) and Queen’s University Belfast for this invitation to speak on the topic of data visualization and the digital humanities, which I am passionate about. Preparing this talk, I realized I had many points to get across. For commodity I organized them in 5 different stories, “dataviz, hype or hope” being one of them. To share all my ideas and stay on time, I will follow a written text, which looks a bit static but I promise to add pictures like [this one](http://sharpwriter.deviantart.com/art/Welcome-to-the-Internet-Please-Follow-me-322248378) to keep you engaged and illustrate my arguments.
+I thank the [Digital Arts and Humanities Program](http://dahphd.ie/), the [Institute for Collaborative Research in the Humanities](http://www.qub.ac.uk/research-centres/InstituteforCollaborativeResearchintheHumanities/) and Queen’s University Belfast for this invitation to speak on the topic of data visualization and the digital humanities, which I am passionate about.  
+
+Preparing this talk, I realized I had many points to get across. For commodity I organized them in 5 different stories, “dataviz, hype or hope” being one of them. To share all my ideas and stay on time, I will follow a written text, which looks a bit static but I promise to add pictures like [this one](http://sharpwriter.deviantart.com/art/Welcome-to-the-Internet-Please-Follow-me-322248378) to keep you engaged and illustrate my arguments.
 
 
 <p align="center"><img src="img/formatted/unicorn.jpg"/></p>  
@@ -32,6 +34,7 @@ So the moral of this story is: don’t bother too much, personally I don’t, di
  
 # 2nd short story: what is a good data visualization?
 This one is obviously a personal story because there will be elements of a subjective judgment, and there is much room for disagreement… but here is what I think is a good data visualization.
+
 There is a basic, minimum condition to qualify: you have to stay loyal to the data. I think it translates in three conditions:  
 ###**1) Fair and correct use of the visual grammar.**
 This data visualization illustrates my point:   
@@ -40,8 +43,8 @@ This data visualization illustrates my point:
 <p align="center"><img src="img/formatted/truncating.jpg"/></p>  
 
 
-###**2) Intelligible.**  
-Here I take the example of network visualizations. How many times do you see this kind of pictures
+###**2) Intelligibility.**  
+Here I take the example of network visualizations. How many times do you see this kind of pictures:  
 
 
 <p align="center"><img src="img/formatted/gephi.jpg"/></p>  
@@ -122,9 +125,8 @@ This thesis was a contextualized history, drawing on biographies of the scientis
 <p align="center"><img src="img/formatted/archive2.jpg"/></p>  
 
 
-
-I visited libraries holding the personal archives of economist and peace activist Kenneth Boulding in Michigan, economist Nicholas Goergescu Roegen at Duke University, and mathematician Alfred Lotka in Princeton. Through the Freedom of Information Act, I got access to the FBI file on economist Edith Penrose. I called got rich archives from founding figures of ecology sent by the University of Akron.  
-The thesis ended up being 6 chapters, 6 stories on 6 episodes of the relationship between economics and biology. It was not based on data, if we call data, following Wikipedia](http://en.wikipedia.org/wiki/Data):  
+I visited libraries holding the personal archives of economist and peace activist Kenneth Boulding in Michigan, economist Nicholas Goergescu Roegen at Duke University, and mathematician Alfred Lotka in Princeton. Through the Freedom of Information Act, I got access to the FBI file on economist Edith Penrose. I got rich archives from founding figures of ecology sent by the University of Akron.  
+The thesis ended up being 6 chapters, 6 stories on 6 episodes of the relationship between economics and biology. It was not based on data, if we call data, following [Wikipedia](http://en.wikipedia.org/wiki/Data):  
 
 > « a set of values of qualitative or quantitative variables; restated, pieces of data are individual pieces of information. Data is measured, collected and reported, and analyzed, whereupon it can be visualized using graphs or images ».  
 
@@ -161,7 +163,7 @@ So the moral of this story:
 # 4th story: digital humanities and data visualization frame the humanities as dealing with "data": is this frame wrong?  
 The assumption of data visualization is, what we are doing is working on a material, that we call « data ». There is a dataset, or a corpus, or a file, or a list of records, and this is « data ». Not an argument, not a discourse, not a melody, not an incantation, not an ideology, but data. A library becomes a list of books, books become lists of pages, a page becomes a list of tokens…  
 
-Thinking in terms of data tends to impose a quantitative view of the world…  and I think it is ok not to feel at ease with that. Because it stampedes on narrative forms of scholarschip. Let me illustrate.    
+Thinking in terms of data tends to impose a quantitative view of the world…  and I think it is ok not to feel at ease with that. Because it can stampede on narrative forms of scholarschip. Let me illustrate.    
 Recently, I was working on a paper on the history of neuromarketing:
 
 
@@ -179,8 +181,8 @@ The goal was also to understand the birth and evolution of a cultural trope thro
 <p align="center"><img src="img/formatted/youtubeneuromarketing.jpg"/></p>  
 
 
-As surprising as it seems, this had never been done before. Nicole collected thousands of items from the first year « neuromarketing » appeared (in 2002) up to 2009.  
-We ended up with something like 12 hundred documents in English, mostly web pages, and thousands of documents in other languages. This amount of documents suggested that « distant reading » was required, algorithms should be used, word frequencies should be measured, and data visualization was possible: counting terms, drawing charts showing how topics in neuromarketing were trending over the years… we did that, but that ended up being a very dry result.  
+As surprising as it seems, this has never been done before. Nicole collected thousands of items from the first year « neuromarketing » appeared (in 2002) up to 2009.  
+We ended up with something like 12 hundred documents in English, mostly web pages, and thousands of documents in other languages. This amount of documents suggested that « distant reading » was required, algorithms should be used, word frequencies should be measured, and data visualization was possible: counting terms, drawing charts showing how topics in neuromarketing were trending over the years… we did that, but that ended up being a very dry result:  
 
 
 <p align="center"><img src="img/formatted/chartneuromarketing.jpg"/></p>  
@@ -214,16 +216,16 @@ I was really struck, and humbled, by the open source ethos of these computer eng
 
 
 ###2) New forms of research output
-Being a historian of science, my research outputs were expected to be the following: journal articles and book chapters. My dream was, well it still is, to publish in [ISIS](http://www.press.uchicago.edu/ucp/journals/journal/isis.html), the journal of the History of Science Society and leading journal of the field. For me, ISIS is like the Pantheon of history of science.  
+As an historian of science, my research outputs were expected to be the following: journal articles and book chapters. My dream was, well it still is, to publish in [ISIS](http://www.press.uchicago.edu/ucp/journals/journal/isis.html), the journal of the History of Science Society and leading journal of the field. For me, ISIS is like the Pantheon of history of science.  
 
 But shifting to the digital humanities, things changed – a lot! Research ouputs can be oh so different. Software. Datasets.  Installations.  visualizations, blog posts. Websites, hardware, games, 3D prints... you name it. I think the digital humanities is exciting because it expands the range of ways to express ourselves, beyond the strict and sometimes narrow standards of traditional scholarship. The question of, is it fully recognized in our evaluations, is another story, but at least a wide playground has opened.  
 
 ###3)	New forms of impact
 Just a note on quality and impact: it is not because you have a higher impact that your content is of a higher quality. Still, it is nice when research outputs you are proud of, get some impact, no? and I noticed that the digital humanities really help getting more impact. Just from my experience:  
 
-[My first published paper](http://hope.dukejournals.org/content/41/1/163.abstract) is on the history of “natural selection” in mid twentieth century economic theory, and how this concept was drawn from biology (obviously) but also statistical physics. In all modesty, this the historical paper I have written that I prefer. You have a surprising twist in the plot, a smoking gun from the archives, and it even mentions missiles. Its impact? Published in 2009, it got 5 citations in 6 years. 3 of these citations are from myself. It is really sad. Nobody, or nearly nobody, reads this cool stuff. I joke about how my pride is hurt, but this is real concern.  
+[My first published paper](http://hope.dukejournals.org/content/41/1/163.abstract) is on the history of “natural selection” in mid twentieth century economic theory, and how this concept was drawn from biology (obviously) but also statistical physics. In all modesty, this the historical paper I have written that I prefer. You have a surprising twist in the plot, a smoking gun from the archives, and it even mentions missiles. Its impact? Published in 2009, it got 5 citations in 6 years. 3 of these citations are from myself. It is really sad. Nobody, or nearly nobody, reads this cool stuff. I joke about how my pride is hurt, but this is a real concern.  
 
-Ok, compare this to another research output. I created a plugin for Gephi called [“Map of countries”](https://marketplace.gephi.org/plugin/maps-of-countries/). This plugin puts a map in the background, if you have a geospatialized network, like this:  
+Ok, compare this to another research output. I created a plugin for Gephi called [“Map of countries”](https://marketplace.gephi.org/plugin/maps-of-countries/). This plugin puts a map in the background, which is useful if you have a geospatialized network, like this:  
 
 
 <p align="center"><img src="img/formatted/mapofcountries.jpg"/></p>  
