@@ -59,7 +59,7 @@ I suppose you agree with me that, no matter if the scales are correct, or if the
 <p align="center"><img src="img/formatted/fmri.jpg"/></p>  
 
 
-I take this example for neuromarketing, which is a frequent producer of a particular kind of data visualization. I observed neuromarketing in a research project in sociology of science while in Rotterdam, from 2008 to 2014. In this example you see pictures of brains representing the result of a study using fMRI, which is a type of brain scanner. 18 subjects were shown logos of brands, and the colors are supposed to represent the regions of the brain that get active when you show real brand logos, versus meaningless logos.  
+I take this example from neuromarketing, which is a frequent producer of a particular kind of data visualization. I observed neuromarketing in a research project in sociology of science while in Rotterdam, from 2008 to 2014. In this example you see pictures of brains representing the result of a study using fMRI, which is a type of brain scanner. 18 subjects were shown logos of brands, and the colors are supposed to represent the regions of the brain that get active when you show real brand logos, versus meaningless logos.  
 
 This data visualization does not tell you anything about the effect of brand logos on you. But looking at the picture, it really seems that there is something to be learnt there. Wow, this is my brain when I watch logos.  
 
